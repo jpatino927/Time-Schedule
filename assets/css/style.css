@@ -1,1 +1,103 @@
+* {box-sizing:border-box;    
+}  
+body {
+    background: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia,"Times New Roman", Times, serif;
+    font-size: 16px;
+    line-height: 125%;      
+}  
+#djumbotron {
+    background-color: black;
+    color: lightskyblue;
+    text-align: center;
+    font-size: 30px;
+    font-family:serif;
+    /* margin: 0;
+    margin-bottom: 0px;
+    padding: 0px 0;
+    font-size: 0px;
+    border-top-width: 0px;      */
+}  
+
+.container{
+    position: relative;
+    margin-top: 100px;
+
+}
+
+.w3-btn {width:150px;}
+
+
+h1 {
+    color:greenyellow;
+    background-color:black;
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: -10px 0;
+    font-size: 28px;
+    font-style:serif;
+}
+h2 {
+    color:lightskyblue;
+    background-color:black;
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 45px;
+    font-style:serif;
+}
+
+h3 {
+    color:lightskyblue;
+    background-color:black;
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 28px;
+    font-style:serif;
+
+}
+
+/* #dino {
+  position: static;
+  width: 300px;
+  height:200px;
+  margin-top: 20px;
+  border:100px,  solid whitesmoke;
+  background: black;
+  padding-bottom: 200px;
+} */
+
+#trivia {
+  position: relative;
+  margin-top: -433px;
+  text-align: center;
+  
+ 
+        
+}
+a:hover {
+  color: greenyellow;
+}
+
+img {
+    position: relative;
+    margin-left: -100px;
+    width:1300px;
+    height:400px
+
+}
+ 
+.header {
+    color:white;
+    font-size:25px;
+    font-family: serif;
+    text-align: center;
+}
 
